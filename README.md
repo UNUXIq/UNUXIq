@@ -14,7 +14,7 @@
 
 ---
 
-### 📂 Избранные репозитории
+### 📂 Featured repositories
 
 <p align="center">
   <!-- Репозиторий 1: UNUXI_Python -->
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Активность и коммиты
+### 📊 Activity
 
   <!-- GitHub Streak: текущая и рекордная серия дней с коммитами -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNUXIq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
