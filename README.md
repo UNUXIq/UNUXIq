@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Собственный баннер -->
-  <img src="./wallhaven-1qoej1.png" alt="UNUXIq Banner" width="100%" />
+  <img src="./wallhaven-lygzop.png" alt="UNUXIq Banner" width="100%" />
 
   <br/><br/>
 
