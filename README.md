@@ -49,10 +49,6 @@
 
 ### 📊 Активность и коммиты
 
-<div align="center">
-  <!-- Карточка статистики с подсчетом всех коммитов (включая приватные репозитории) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UNUXIq&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  &nbsp;
   <!-- GitHub Streak: текущая и рекордная серия дней с коммитами -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNUXIq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
