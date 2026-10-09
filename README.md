@@ -10,26 +10,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%3E_UNUXIq;Arch+Linux+%2B+Hyprland;Python+Developer;Welcome+to+my+workspace!" alt="Typing SVG" />
   </a>
 
-  <!-- 3. Ссылки-бейджи (соцсети / контакты) -->
-  <p align="center">
-    <a href="https://t.me/your_telegram" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="mailto:your_email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/UNUXIq" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
 </div>
 
 ---
 
 ### 📂 Избранные репозитории
-
-Кликабельные бейджи проектов:
 
 <p align="center">
   <!-- Репозиторий 1: UNUXI_Python -->
@@ -62,10 +47,12 @@
 
 ---
 
-### 📊 Статистика профиля
+### 📊 Активность и коммиты
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UNUXIq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNUXIq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="1
-  55" />
+  <!-- Карточка статистики с подсчетом всех коммитов (включая приватные репозитории) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=UNUXIq&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <!-- GitHub Streak: текущая и рекордная серия дней с коммитами -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNUXIq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
