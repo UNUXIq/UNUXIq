@@ -24,6 +24,7 @@
   <a href="https://github.com/UNUXIq/EGE_Preparation"><img src="https://img.shields.io/badge/EGE__Prep-Materials_%26_Anki-FF6B6B?style=flat-square&logo=anki&logoColor=white" /></a>
   <a href="https://github.com/UNUXIq/UNUXIq"><img src="https://img.shields.io/badge/UNUXIq-Config-24292e?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
+
 ---
 
 <div align="center">
