@@ -15,14 +15,15 @@
 ---
 
 
-| Репозиторий | Описание / Назначение |
-| :--- | :--- |
-| <a href="https://github.com/UNUXIq/UNUXI_Python"><img src="https://img.shields.io/badge/UNUXI__Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a> | Заметки, разбор библиотек и скрипты |
-| <a href="https://github.com/UNUXIq/OBSIDIAN_Workspace"><img src="https://img.shields.io/badge/OBSIDIAN__Workspace-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /></a> | Конфигурация и структура базы знаний |
-| <a href="https://github.com/UNUXIq/UNUXI_Linux"><img src="https://img.shields.io/badge/UNUXI__Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" /></a> | Дотфайлы и окружение Arch Linux + Hyprland |
-| <a href="https://github.com/UNUXIq/EGE_Preparation"><img src="https://img.shields.io/badge/EGE__Preparation-FF6B6B?style=flat-square&logo=anki&logoColor=white" /></a> | Материалы для подготовки к ЕГЭ и колоды Anki |
-| <a href="https://github.com/UNUXIq/UNUXIq"><img src="https://img.shields.io/badge/UNUXIq-24292e?style=flat-square&logo=github&logoColor=white" /></a> | Конфигурационный репозиторий профиля |
-
+<p align="center">
+  <a href="https://github.com/UNUXIq/UNUXI_Python"><img src="https://img.shields.io/badge/UNUXI__Python-Notes_%26_Libs-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/UNUXIq/OBSIDIAN_Workspace"><img src="https://img.shields.io/badge/OBSIDIAN__Workspace-Notes-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /></a>
+  <a href="https://github.com/UNUXIq/UNUXI_Linux"><img src="https://img.shields.io/badge/UNUXI__Linux-Arch_%2B_Hypr-1793D1?style=flat-square&logo=archlinux&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/UNUXIq/EGE_Preparation"><img src="https://img.shields.io/badge/EGE__Prep-Materials_%26_Anki-FF6B6B?style=flat-square&logo=anki&logoColor=white" /></a>
+  <a href="https://github.com/UNUXIq/UNUXIq"><img src="https://img.shields.io/badge/UNUXIq-Config-24292e?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 ---
 
 <div align="center">
