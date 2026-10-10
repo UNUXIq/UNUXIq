@@ -14,7 +14,6 @@
 
 ---
 
-### 📂 Featured repositories
 
 <p align="center">
   <a href="https://github.com/UNUXIq/UNUXI_Python"><img src="https://img.shields.io/badge/UNUXI__Python-Notes_%26_Libraries-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="UNUXI_Python" /></a>
@@ -29,7 +28,6 @@
 
 ---
 
-### 📊 Activity
 <div align="center">
   <!-- GitHub Streak: текущая и рекордная серия дней с коммитами -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UNUXIq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
