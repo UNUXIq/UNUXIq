@@ -17,32 +17,14 @@
 ### 📂 Featured repositories
 
 <p align="center">
-  <!-- Репозиторий 1: UNUXI_Python -->
-  <a href="https://github.com/UNUXIq/UNUXI_Python">
-    <img src="https://img.shields.io/badge/UNUXI__Python-Notes_%26_Libraries-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="UNUXI_Python" />
-  </a>
-  &nbsp;
-  <!-- Репозиторий 2: OBSIDIAN_Workspace -->
-  <a href="https://github.com/UNUXIq/OBSIDIAN_Workspace">
-    <img src="https://img.shields.io/badge/OBSIDIAN__Workspace-Setup_%26_Notes-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="OBSIDIAN_Workspace" />
-  </a>
-  &nbsp;
-  <!-- Репозиторий 3: UNUXI_Linux -->
-  <a href="https://github.com/UNUXIq/UNUXI_Linux">
-    <img src="https://img.shields.io/badge/UNUXI__Linux-Arch_%2B_Hyprland-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="UNUXI_Linux" />
-  </a>
+  <a href="https://github.com/UNUXIq/UNUXI_Python"><img src="https://img.shields.io/badge/UNUXI__Python-Notes_%26_Libraries-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="UNUXI_Python" /></a>
+  <a href="https://github.com/UNUXIq/OBSIDIAN_Workspace"><img src="https://img.shields.io/badge/OBSIDIAN__Workspace-Setup_%26_Notes-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="OBSIDIAN_Workspace" /></a>
+  <a href="https://github.com/UNUXIq/UNUXI_Linux"><img src="https://img.shields.io/badge/UNUXI__Linux-Arch_%2B_Hyprland-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="UNUXI_Linux" /></a>
 </p>
 
 <p align="center">
-  <!-- Репозиторий 4: EGE_Preparation -->
-  <a href="https://github.com/UNUXIq/EGE_Preparation">
-    <img src="https://img.shields.io/badge/EGE__Preparation-Study_Materials_%26_Anki-FF6B6B?style=for-the-badge&logo=anki&logoColor=white" alt="EGE_Preparation" />
-  </a>
-  &nbsp;
-  <!-- Репозиторий 5: UNUXIq (Профиль / Конфигурация) -->
-  <a href="https://github.com/UNUXIq/UNUXIq">
-    <img src="https://img.shields.io/badge/UNUXIq-Profile_Config-24292e?style=for-the-badge&logo=github&logoColor=white" alt="UNUXIq" />
-  </a>
+  <a href="https://github.com/UNUXIq/EGE_Preparation"><img src="https://img.shields.io/badge/EGE__Preparation-Study_Materials_%26_Anki-FF6B6B?style=for-the-badge&logo=anki&logoColor=white" alt="EGE_Preparation" /></a>
+  <a href="https://github.com/UNUXIq/UNUXIq"><img src="https://img.shields.io/badge/UNUXIq-Profile_Config-24292e?style=for-the-badge&logo=github&logoColor=white" alt="UNUXIq" /></a>
 </p>
 
 ---
