@@ -7,7 +7,7 @@
 
   <!-- 2. Терминальный набор ника и подписи -->
   <a href="https://github.com/UNUXIq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%3E_UNUXIq;Arch+Linux+%2B+Hyprland;Python+Developer;Welcome+to+my+workspace!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%3E_UNUXIq;Welcome+to+my+workspace!" alt="Typing SVG" />
   </a>
 
 </div>
