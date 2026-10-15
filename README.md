@@ -16,9 +16,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/UNUXIq/UNUXI_Python"><img src="https://img.shields.io/badge/UNUXI__Python-Notes_%26_Libs-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
   <a href="https://github.com/UNUXIq/OBSIDIAN_Workspace"><img src="https://img.shields.io/badge/OBSIDIAN__Workspace-Notes-7C3AED?style=flat-square&logo=obsidian&logoColor=white" /></a>
-  <a href="https://github.com/UNUXIq/UNUXI_Linux"><img src="https://img.shields.io/badge/UNUXI__Linux-Arch_%2B_Hypr-1793D1?style=flat-square&logo=archlinux&logoColor=white" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/UNUXIq/EGE_Preparation"><img src="https://img.shields.io/badge/EGE__Prep-Materials_%26_Anki-FF6B6B?style=flat-square&logo=anki&logoColor=white" /></a>
